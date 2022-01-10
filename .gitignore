@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -9,3 +10,16 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+=======
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+>>>>>>> 28d47a20b2c3c945c7b757fbab4b11d92084f4e2
