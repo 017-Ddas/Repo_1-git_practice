@@ -1,0 +1,4 @@
+curl https://url....  -o
+wget url -O name_file
+ls/etc/*release*
+cat/etc/*release*
